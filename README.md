@@ -6,7 +6,7 @@ E esse é meu perfil dedicado aos trabalhos proposto pela minha faculade.
 
 Sou estudante de engenharia de software e análise e desenvolvimento de sistemas, tenho conhecimento em UI Design, front-end, e atualmente estudo desenvolvimento mobile. 💻
 
-Tenho familiaridade com Figma para prototipação, HTML, CSS, básico de JS e Flutter.
+Tenho familiaridade com GIT, Figma para prototipação, HTML, CSS, básico de JS e Flutter.
 
 Adoro esse mundo da tecnologia, e gosto muito de aprender coisas novas. Estou sempre aberto a novos desafios e pronto para enfrentar as mudanças.
 
