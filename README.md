@@ -4,7 +4,7 @@ Me chamo Lucas Lumertz.
 
 E esse é meu perfil dedicado aos trabalhos proposto pela minha faculade.
 
-Sou estudante de engenharia de software e análise e desenvolvimento de sistemas, tenho conhecimento em UI Design, front-end, e atualmente estudo desenvolvimento mobile. 💻
+Sou estudante de engenharia de software e análise e desenvolvimento de sistemas, tenho conhecimento em UI Design, front-end, e atualmente estudo Front-end e C# com .NET. 💻
 
 Tenho familiaridade com GIT, Figma para prototipação, HTML, CSS, básico de JS e Flutter.
 
